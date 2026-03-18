@@ -2,7 +2,6 @@
 <br>
 <img src="justdoeat/images/icons/logo_justdoeat.png" alt="Logo" width="500" align="center">
 <br>
-
 ## Objetivo Geral
 
 * O objetivo geral do projeto "Just do Eat" é desenvolver uma plataforma web intuitiva de delivery que conecta usuários a restaurantes e, de forma simultânea, auxilia instituições carentes. 
