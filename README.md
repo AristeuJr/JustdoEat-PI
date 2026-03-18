@@ -44,29 +44,29 @@
 * Uma interface dupla que funciona como gestor de cardápio. Do lado esquerdo, lista os produtos já disponíveis com foto, nome, descrição, preço e status (ativo).
 * Do lado direito, apresenta um formulário para cadastrar novos produtos ou editar os existentes, definindo categorias e opções adicionais.
 
-### 🤖 Linguagens e Tecnologias Utilizadas
+## 🤖 Linguagens e Tecnologias Utilizadas
 
 <img 
-    align="left" 
+    align="center" 
     alt="HTML"
     title="HTML" 
-    width="30px" 
+    width="50px" 
     style="padding-right: 15;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
 <img 
-    align="left" 
+    align="center" 
     alt="CSS" 
     title="CSS"
-    width="30px" 
+    width="50px" 
     style="padding-right: 15;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
 <img 
-    align="left" 
+    align="center" 
     alt="PHP" 
     title="PHP"
-    width="30px" 
+    width="50px" 
     style="padding-right: 15;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
 />
