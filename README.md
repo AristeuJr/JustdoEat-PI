@@ -1,6 +1,6 @@
 # Just do Eat #
 
-![Logo Just do Eat](docs/telas/login.png)
+![Logo Just do Eat]("JustdoEat\justdoeat\images\icons\logo_justdoeat.png")
 
 <br>
 
