@@ -1,6 +1,6 @@
 # Just do Eat #
 
-![Logo Just do Eat]("justdoeat\images\icons\logo_justdoeat.png")
+![Logo Just do Eat]("JustdoEat-PI\justdoeat\images\icons\logo_justdoeat.png")
 
 <br>
 
