@@ -1,6 +1,8 @@
 # Just do Eat #
 <br>
-<img src="justdoeat/images/icons/logo_justdoeat.png" alt="Logo" width="500" align="center">
+<div align="center">
+<img src="justdoeat/images/icons/logo_justdoeat.png" alt="Logo" width="500" />
+</div>
 
 ## Objetivo Geral
 
