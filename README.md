@@ -1,5 +1,8 @@
 # Just do Eat #
 
+
+
+
 ## Objetivo Geral
 
 * O objetivo geral do projeto "Just do Eat" é desenvolver uma plataforma web intuitiva de delivery que conecta usuários a restaurantes e, de forma simultânea, auxilia instituições carentes. 
@@ -41,4 +44,30 @@
 * Uma interface dupla que funciona como gestor de cardápio. Do lado esquerdo, lista os produtos já disponíveis com foto, nome, descrição, preço e status (ativo).
 * Do lado direito, apresenta um formulário para cadastrar novos produtos ou editar os existentes, definindo categorias e opções adicionais.
 
+### 🤖 Linguagens e Tecnologias Utilizadas
+
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="PHP" 
+    title="PHP"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
+/>
 
