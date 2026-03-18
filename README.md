@@ -4,12 +4,14 @@
 
 <br>
 <br>
+
 ## Objetivo Geral
 
 * O objetivo geral do projeto "Just do Eat" é desenvolver uma plataforma web intuitiva de delivery que conecta usuários a restaurantes e, de forma simultânea, auxilia instituições carentes. 
 * A solução busca unir a praticidade e a conveniência do pedido de refeições online com a responsabilidade social, gerando doações automaticamente através das compras realizadas no sistema por meio de um programa chamado "Parcela Amiga".
 <br>
 <br>
+
 ## Objetivos Específicos
 
 * Simplificar o processo de compra e entrega de produtos alimentícios, promovendo acessibilidade digital para diferentes perfis de usuários.
@@ -19,6 +21,7 @@
 * Fornecer um ecossistema completo que inclui a gestão de perfis (clientes, restaurantes e administradores), sistema de carrinho e checkout, rastreamento de entregas em tempo real e um sistema de avaliação de serviços.
 <br>
 <br>
+
 ## Descrição das Interfaces já desenvolvidas
 
 ### Homepage (Layout Web):
@@ -48,6 +51,7 @@
 * Do lado direito, apresenta um formulário para cadastrar novos produtos ou editar os existentes, definindo categorias e opções adicionais.
 <br>
 <br>
+
 ## 🤖 Linguagens e Tecnologias Utilizadas
 
 <img 
