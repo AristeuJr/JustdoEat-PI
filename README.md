@@ -1,6 +1,6 @@
 # Just do Eat #
 
-
+![Logo Just do Eat](docs/telas/login.png)
 
 <br>
 
