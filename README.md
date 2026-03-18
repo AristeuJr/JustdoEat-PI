@@ -1,7 +1,6 @@
 # Just do Eat #
 
-![Logo Just do Eat]("justdoeat/images/icons/logo_justdoeat.png")
-
+<img src="justdoeat/images/icons/logo_justdoeat.png" alt="Logo" width="500">
 <br>
 
 ## Objetivo Geral
