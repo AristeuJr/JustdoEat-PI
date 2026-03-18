@@ -1,6 +1,6 @@
 # Just do Eat #
 
-("justdoeat/images/icons/logo_justdoeat.png")
+![Logo Just do Eat]("justdoeat/images/icons/logo_justdoeat.png")
 
 <br>
 
